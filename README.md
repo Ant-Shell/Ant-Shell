@@ -1,5 +1,7 @@
 # Ant-Shell
 
-Learning to code, coding to learn.
+Currently a student at Turing School of Software & Design
 
-Here's to a better tomorrow.
+Learning to code, coding to learn
+
+Here's to a better tomorrow
