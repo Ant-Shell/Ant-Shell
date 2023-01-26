@@ -10,6 +10,7 @@
     <img src="https://img.shields.io/badge/GMAIL-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
+<br>  
 <div id="info" align="center">Front End Engineering Certificate from <a href="https://turing.edu/">Turing School of Software and Design</a></div>
 <br>
 <div id="metrics" align="center">
