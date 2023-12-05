@@ -24,7 +24,7 @@
   <li>Pronouns: He/Him</li>
   <li>Background: Former Systems Administrator</li>
   <li>Aspiring artist</li>
-  <li>Manga reader</li>
+  <li>Manga enjoyer</li>
 </ul>
 
 
