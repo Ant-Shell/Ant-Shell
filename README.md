@@ -22,7 +22,7 @@
 
 <ul>
   <li>Pronouns: He/Him</li>
-  <li>Background: Former Systems Administrator</li>
+  <li>Background: Former Linux Systems Administrator</li>
   <li>Aspiring artist</li>
   <li>Manga enjoyer</li>
 </ul>
